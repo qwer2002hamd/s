@@ -1,7 +1,7 @@
 {
-    "name": "ѕᴏụʀᴄᴇ ᴀʟᴍᴏʀᴛᴀɢᴇʟ",
-    "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/14c7948ad180050fe16e4.jpg",
+    "name": "˹ʜᴀᴍᴅ ✘ ᴍᴜsɪᴄ˼ 🫧🕊️⃝",
+    "description": "صل على النبي وتبسم🥺❤✨",
+    "logo": "https://telegra.ph/file/a0b4ae6f5304825e45f8e.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -29,17 +29,17 @@
       },
       "MONGO_DB_URI": {
         "description": "حط هنا كود المونجو .",
-        "value": "mongodb+srv://bot_vambir:Al2552001@cluster0.heabj.mongodb.net/vambir_bot?retryWrites=true&w=majority",
+        "value": "mongodb+srv://lucifer:ASShaw96@lucifer.vuows.mongodb.net/lucifer?retryWrites=true&w=majority",
         "required": false
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "ᴀʟᴍᴏʀᴛᴀɢᴇʟ ダ ᴍᴜsɪᴄ",
+        "value": "˹ʜᴀᴍᴅ ✘ ᴍᴜsɪᴄ˼ 🫧🕊️⃝",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "1748768168",
         "required": true
       },
       "STRING_SESSION": {
