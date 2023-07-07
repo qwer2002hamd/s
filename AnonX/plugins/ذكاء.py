@@ -34,7 +34,7 @@ import requests
          return None 
   
  def reply_gpt(client, message): 
-     text = message.text.split("/almortagel")[1] 
+     text = message.text.split("حمد")[1] 
      reply_text = gpt(text) 
      chat_id = message.chat.id 
      if message.reply_to_message is not None: 
